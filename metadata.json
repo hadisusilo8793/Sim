@@ -1,0 +1,6 @@
+{
+  "name": "Stock Opname & Monitoring SIM Driver DC Bandung",
+  "description": "Aplikasi Web Stock Opname SIM Driver DC Bandung dengan validasi master driver, deteksi duplikasi, kompresi foto, audit log, integrasi Google Sheets, dan konfigurasi sistem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
